@@ -69,7 +69,7 @@ info.setLife(3)
 scene.setBackgroundImage(assets.image`Galaxy`)
 scroller.scrollBackgroundWithSpeed(0, 10)
 mySprite = sprites.create(assets.image`Rocket`, SpriteKind.Player)
-mySprite.setPosition(70, 105)
+mySprite.setPosition(80, 98)
 let mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
