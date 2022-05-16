@@ -1,5 +1,6 @@
 {
     "name": "Atul Aarya R.K's Super Duper Space Craft Game ! Yay Wow !!!",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
